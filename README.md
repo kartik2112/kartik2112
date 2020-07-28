@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on interesting ML solutions
 - 💬 Ask me about CNN / ML solutions / ML architecture / Web
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kartik2112/)
-- ⚡ Fun fact: ...
+
+<img src="https://github-readme-stats.vercel.app/api?username=kartik2112&&show_icons=true&title_color=ffffff&icon_color=5db6fc&text_color=a3d6ff&bg_color=004475"/>
 
 <!--
 **kartik2112/kartik2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
